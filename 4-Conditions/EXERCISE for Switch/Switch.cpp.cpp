@@ -19,7 +19,8 @@ cout<<  "1. Cola"<<endl<<
 
     {
         default:
-            cout<<"incorrect choice code !!";
+
+            cout<<"incorrect choice code !";
         case 1:
             cout<<"you have ordered a cola !";
             break;
