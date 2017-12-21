@@ -1,0 +1,4 @@
+C:\Users\Rajaswa\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/d/udemy Cpp/EXERCISES-TO-ENTIRE-COURSE-IN-ONE-FILE/2-Basics/Basics/5-Downloading-Data-From-The-Input-Exercise"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/udemy Cpp/EXERCISES-TO-ENTIRE-COURSE-IN-ONE-FILE/2-Basics/Basics/5-Downloading-Data-From-The-Input-Exercise/cmake-build-debug

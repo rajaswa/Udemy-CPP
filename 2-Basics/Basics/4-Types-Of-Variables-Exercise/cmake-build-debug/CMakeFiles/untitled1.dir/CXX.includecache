@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/udemy Cpp/EXERCISES-TO-ENTIRE-COURSE-IN-ONE-FILE/2-Basics/Basics/4-Types-Of-Variables-Exercise/exercise.cpp
+iostream
+-
+
