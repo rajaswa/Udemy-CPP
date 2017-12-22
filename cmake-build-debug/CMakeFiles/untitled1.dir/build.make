@@ -57,38 +57,38 @@ include CMakeFiles/untitled1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled1.dir/flags.make
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o: ../2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/d/Udemy C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o -c "/cygdrive/d/Udemy C++/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp"
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o: ../5-Arrays/EXERCISE\ for\ Arrays/arrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/d/Udemy C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o -c "/cygdrive/d/Udemy C++/5-Arrays/EXERCISE for Arrays/arrays.cpp"
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/d/Udemy C++/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp" > CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/d/Udemy C++/5-Arrays/EXERCISE for Arrays/arrays.cpp" > CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/d/Udemy C++/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp" -o CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/d/Udemy C++/5-Arrays/EXERCISE for Arrays/arrays.cpp" -o CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.requires:
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.requires:
 
-.PHONY : CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.requires
+.PHONY : CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.requires
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.provides: CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.requires
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.provides.build
-.PHONY : CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.provides
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.provides: CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.requires
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.provides.build
+.PHONY : CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.provides
 
-CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.provides.build: CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o
+CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.provides.build: CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
 
 
 # Object files for target untitled1
 untitled1_OBJECTS = \
-"CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o"
+"CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
 
-untitled1.exe: CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o
+untitled1.exe: CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
 untitled1.exe: CMakeFiles/untitled1.dir/build.make
 untitled1.exe: CMakeFiles/untitled1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/d/Udemy C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled1.exe"
@@ -99,7 +99,7 @@ CMakeFiles/untitled1.dir/build: untitled1.exe
 
 .PHONY : CMakeFiles/untitled1.dir/build
 
-CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o.requires
+CMakeFiles/untitled1.dir/requires: CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o.requires
 
 .PHONY : CMakeFiles/untitled1.dir/requires
 

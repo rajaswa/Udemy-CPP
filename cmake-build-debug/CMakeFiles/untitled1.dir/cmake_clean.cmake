@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o"
+  "CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o"
   "untitled1.pdb"
   "untitled1.exe"
   "libuntitled1.dll.a"

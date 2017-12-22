@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/d/Udemy C++/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp" "/cygdrive/d/Udemy C++/cmake-build-debug/CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o"
+  "/cygdrive/d/Udemy C++/5-Arrays/EXERCISE for Arrays/arrays.cpp" "/cygdrive/d/Udemy C++/cmake-build-debug/CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

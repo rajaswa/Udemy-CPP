@@ -123,32 +123,32 @@ untitled1/fast:
 	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.o: 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o
+5-Arrays/EXERCISE_for_Arrays/arrays.o: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
 
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.o
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.o
 
 # target to build an object file
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.o
+5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
 
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.i: 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i
+5-Arrays/EXERCISE_for_Arrays/arrays.i: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
 
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.i
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.i
 
 # target to preprocess a source file
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.i
+5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
 
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.s: 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s
+5-Arrays/EXERCISE_for_Arrays/arrays.s: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
 
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.s
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.s
 
 # target to generate assembly for a file
-2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s
-.PHONY : 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.cpp.s
+5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
+.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled1"
-	@echo "... 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.o"
-	@echo "... 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.i"
-	@echo "... 2-Basics/Basics/2-Basics-Of-Programming-Exercise/exercise1.s"
+	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.o"
+	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.i"
+	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.s"
 .PHONY : help
 
 
