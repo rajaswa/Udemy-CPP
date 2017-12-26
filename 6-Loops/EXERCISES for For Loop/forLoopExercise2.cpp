@@ -1,10 +1,13 @@
+//
+// Created by Rajaswa on 22-12-2017.
+//
+
 #include <iostream>
 
 using namespace std;
 
-main ()
+int main ()
 {
-
     char lowerCaseLetter = 'a';
     char upperCaseLetter = 'A';
 
@@ -16,5 +19,4 @@ main ()
         lowerCaseLetter++;
         upperCaseLetter++;
     }
-
 }

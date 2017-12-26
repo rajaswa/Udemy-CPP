@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o  -o untitled1.exe -Wl,--out-implib,libuntitled1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/untitled1.dir/7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o  -o untitled1.exe -Wl,--out-implib,libuntitled1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

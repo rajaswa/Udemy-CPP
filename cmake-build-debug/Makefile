@@ -123,32 +123,32 @@ untitled1/fast:
 	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
-5-Arrays/EXERCISE_for_Arrays/arrays.o: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.o: 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o
 
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.o
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.o
 
 # target to build an object file
-5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o
 
-5-Arrays/EXERCISE_for_Arrays/arrays.i: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.i: 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.i
 
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.i
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.i
 
 # target to preprocess a source file
-5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.i
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.i
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.i
 
-5-Arrays/EXERCISE_for_Arrays/arrays.s: 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.s: 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.s
 
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.s
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.s
 
 # target to generate assembly for a file
-5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
-.PHONY : 5-Arrays/EXERCISE_for_Arrays/arrays.cpp.s
+7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.s
+.PHONY : 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled1"
-	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.o"
-	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.i"
-	@echo "... 5-Arrays/EXERCISE_for_Arrays/arrays.s"
+	@echo "... 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.o"
+	@echo "... 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.i"
+	@echo "... 7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.s"
 .PHONY : help
 
 

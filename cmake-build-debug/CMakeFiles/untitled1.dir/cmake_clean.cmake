@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled1.dir/5-Arrays/EXERCISE_for_Arrays/arrays.cpp.o"
+  "CMakeFiles/untitled1.dir/7-Functions/7-Functions/EXERCISES_for_Functions/recurssion.cpp.o"
   "untitled1.pdb"
   "untitled1.exe"
   "libuntitled1.dll.a"
