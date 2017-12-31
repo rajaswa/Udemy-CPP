@@ -7,6 +7,7 @@ using namespace std;
 
 bool check(string);
 
+
 int main() {
 
     string word;
